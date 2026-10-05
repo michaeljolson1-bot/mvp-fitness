@@ -1,0 +1,1111 @@
+{
+  "exercises": [
+    {
+      "id": "chest-bicep-1a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "1a",
+      "letter": "a",
+      "group": "chest-bicep-1",
+      "order": 0,
+      "name": "bb bench press",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 8,
+      "repsText": "8",
+      "weight": {
+        "value": 115.0,
+        "perSide": false,
+        "drops": null,
+        "text": "115"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": "Typical bench - build on weight"
+    },
+    {
+      "id": "chest-bicep-1b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "1b",
+      "letter": "b",
+      "group": "chest-bicep-1",
+      "order": 1,
+      "name": "DB bicep curls",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 8,
+      "repsText": "8",
+      "weight": {
+        "value": 25.0,
+        "perSide": true,
+        "drops": null,
+        "text": "25 ea"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": "Full elbow extension to 180 degrees"
+    },
+    {
+      "id": "chest-bicep-2a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "2a",
+      "letter": "a",
+      "group": "chest-bicep-2",
+      "order": 2,
+      "name": "incline DB press 30\u00b0",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 10,
+      "repsMax": 10,
+      "repsText": "10",
+      "weight": {
+        "value": 40.0,
+        "perSide": true,
+        "drops": null,
+        "text": "40 ea"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": "Bring weights together at top, can't go too deep"
+    },
+    {
+      "id": "chest-bicep-2b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "2b",
+      "letter": "b",
+      "group": "chest-bicep-2",
+      "order": 3,
+      "name": "ez bar bicep curls",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 10,
+      "repsMax": 10,
+      "repsText": "10",
+      "weight": {
+        "value": 55.0,
+        "perSide": false,
+        "drops": null,
+        "text": "55"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": "Full elbow extension to 180 degrees"
+    },
+    {
+      "id": "chest-bicep-3a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "3a",
+      "letter": "a",
+      "group": "chest-bicep-3",
+      "order": 4,
+      "name": "dip machine, leaning forward",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 15,
+      "repsMax": 15,
+      "repsText": "15",
+      "weight": {
+        "value": 135.0,
+        "perSide": false,
+        "drops": null,
+        "text": "135"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": "Forward lean, head down (shouldn't feel much in shoulders)"
+    },
+    {
+      "id": "chest-bicep-3b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "3b",
+      "letter": "b",
+      "group": "chest-bicep-3",
+      "order": 5,
+      "name": "DB hammer curls",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 20.0,
+        "perSide": true,
+        "drops": null,
+        "text": "20 ea"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": "Full elbow extension to 180 degrees"
+    },
+    {
+      "id": "chest-bicep-4a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "4a",
+      "letter": "a",
+      "group": "chest-bicep-4",
+      "order": 6,
+      "name": "45\u00b0 DB pinch press",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 15,
+      "repsMax": 15,
+      "repsText": "15",
+      "weight": {
+        "value": 25.0,
+        "perSide": true,
+        "drops": null,
+        "text": "25 ea"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": "Focus on pushing inwards, lower weight, not full extension"
+    },
+    {
+      "id": "chest-bicep-4b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "4b",
+      "letter": "b",
+      "group": "chest-bicep-4",
+      "order": 7,
+      "name": "band biceps curls, arms stretched out front",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": null,
+        "perSide": false,
+        "drops": null,
+        "text": "red/grey"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": "180 degree extension, \"skull crusher\" motion"
+    },
+    {
+      "id": "chest-bicep-5a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "5a",
+      "letter": "a",
+      "group": "chest-bicep-5",
+      "order": 8,
+      "name": "15\u00b0 DB chest press",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 5,
+      "repsMax": 8,
+      "repsText": "5-8",
+      "weight": {
+        "value": 45.0,
+        "perSide": false,
+        "drops": null,
+        "text": "45"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": "Bring weights together at top, can't go too deep"
+    },
+    {
+      "id": "chest-bicep-5b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "5b",
+      "letter": "b",
+      "group": "chest-bicep-5",
+      "order": 9,
+      "name": "15\u00b0 DB chest fly",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 12,
+      "repsText": "8-12",
+      "weight": {
+        "value": 15.0,
+        "perSide": false,
+        "drops": null,
+        "text": "15"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": "Keep elbows same angle, low weight here and focus on form"
+    },
+    {
+      "id": "chest-bicep-6a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "6a",
+      "letter": "a",
+      "group": "chest-bicep-6",
+      "order": 10,
+      "name": "hi to low cable fly",
+      "parent": null,
+      "sets": 2,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 13.0,
+        "perSide": false,
+        "drops": null,
+        "text": "13"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "chest-bicep-6b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "6b",
+      "letter": "b",
+      "group": "chest-bicep-6",
+      "order": 11,
+      "name": "hi to low cable press",
+      "parent": null,
+      "sets": 2,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 13.0,
+        "perSide": false,
+        "drops": null,
+        "text": "13"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "chest-bicep-6c",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "6c",
+      "letter": "c",
+      "group": "chest-bicep-6",
+      "order": 12,
+      "name": "straight out cable bicep curls, to the ears",
+      "parent": null,
+      "sets": 2,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 13.0,
+        "perSide": false,
+        "drops": null,
+        "text": "13"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": "Like flexing bicep motion. 180 degrees"
+    },
+    {
+      "id": "chest-bicep-7a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "7a",
+      "letter": "a",
+      "group": "chest-bicep-7",
+      "order": 13,
+      "name": "low to high cable fly",
+      "parent": null,
+      "sets": 2,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 13.0,
+        "perSide": false,
+        "drops": null,
+        "text": "13"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "chest-bicep-7b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "7b",
+      "letter": "b",
+      "group": "chest-bicep-7",
+      "order": 14,
+      "name": "low to high cable press",
+      "parent": null,
+      "sets": 2,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 13.0,
+        "perSide": false,
+        "drops": null,
+        "text": "13"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "chest-bicep-7c",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "7c",
+      "letter": "c",
+      "group": "chest-bicep-7",
+      "order": 15,
+      "name": "low outside angle bicep curls",
+      "parent": null,
+      "sets": 2,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 13.0,
+        "perSide": false,
+        "drops": null,
+        "text": "13"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": ""
+    },
+    {
+      "id": "chest-bicep-8a",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "8a",
+      "letter": "a",
+      "group": "chest-bicep-8",
+      "order": 16,
+      "name": "incline press machine",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 12,
+      "repsText": "8-12",
+      "weight": {
+        "value": 25.0,
+        "perSide": true,
+        "drops": null,
+        "text": "25 ea"
+      },
+      "muscle": "Chest",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "chest-bicep-8b",
+      "day": "chest-bicep",
+      "dayLabel": "Chest & Bicep",
+      "slot": "8b",
+      "letter": "b",
+      "group": "chest-bicep-8",
+      "order": 17,
+      "name": "wide grip cable bicep curls, triple drop set",
+      "parent": null,
+      "sets": 1,
+      "repsMin": 8,
+      "repsMax": 8,
+      "repsText": "8ish ea",
+      "weight": {
+        "value": 130.0,
+        "perSide": false,
+        "drops": [
+          130.0,
+          110.0,
+          90.0
+        ],
+        "text": "130, 110, 90"
+      },
+      "muscle": "Biceps",
+      "movement": "Pull",
+      "tips": "Great finishers, like 7/7/7. Form doesn't need to be perfect"
+    },
+    {
+      "id": "back-triceps-1a",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "1a",
+      "letter": "a",
+      "group": "back-triceps-1",
+      "order": 18,
+      "name": "pullups, 3-5 body weight, 3-5 assisted",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 3,
+      "repsMax": 5,
+      "repsText": "3-5",
+      "weight": {
+        "value": null,
+        "perSide": false,
+        "drops": null,
+        "text": ""
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "all the way down, let the shoulder blades release before you engage them"
+    },
+    {
+      "id": "back-triceps-1b",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "1b",
+      "letter": "b",
+      "group": "back-triceps-1",
+      "order": 19,
+      "name": "TRX or overhead triceps",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 10,
+      "repsText": "8-10",
+      "weight": {
+        "value": null,
+        "perSide": false,
+        "drops": null,
+        "text": ""
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": "body in a plank handles eye height"
+    },
+    {
+      "id": "back-triceps-2a",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "2a",
+      "letter": "a",
+      "group": "back-triceps-2",
+      "order": 20,
+      "name": "pulldowns, medium neutral grip",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 10,
+      "repsText": "8-10",
+      "weight": {
+        "value": 90.0,
+        "perSide": false,
+        "drops": null,
+        "text": "90"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": ""
+    },
+    {
+      "id": "back-triceps-2b",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "2b",
+      "letter": "b",
+      "group": "back-triceps-2",
+      "order": 21,
+      "name": "cable, rope, tricep extensions",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 15,
+      "repsText": "12-15",
+      "weight": {
+        "value": 25.0,
+        "perSide": false,
+        "drops": null,
+        "text": "25-30"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "back-triceps-3a.1",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "3a.1",
+      "letter": "a",
+      "group": "back-triceps-3-v1",
+      "order": 22,
+      "name": "low row (2 arm)",
+      "parent": "low row",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 12,
+      "repsText": "12",
+      "weight": {
+        "value": 45.0,
+        "perSide": false,
+        "drops": null,
+        "text": "45"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "roll and squeeze the shoulder blades, seat #5"
+    },
+    {
+      "id": "back-triceps-3a.2",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "3a.2",
+      "letter": "a",
+      "group": "back-triceps-3-v2",
+      "order": 23,
+      "name": "low row (single arm seated)",
+      "parent": "low row",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 12,
+      "repsText": "12",
+      "weight": {
+        "value": 45.0,
+        "perSide": false,
+        "drops": null,
+        "text": "45"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "reach and rotate the trunk with the movement, seat #5"
+    },
+    {
+      "id": "back-triceps-3a.3",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "3a.3",
+      "letter": "a",
+      "group": "back-triceps-3-v3",
+      "order": 24,
+      "name": "low row (single arm half kneeling)",
+      "parent": "low row",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 15,
+      "repsText": "12-15",
+      "weight": {
+        "value": 45.0,
+        "perSide": false,
+        "drops": null,
+        "text": "45"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "knee on seat #9, lawnmower pull"
+    },
+    {
+      "id": "back-triceps-3b.1",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "3b.1",
+      "letter": "b",
+      "group": "back-triceps-3-v1",
+      "order": 25,
+      "name": "SA cable triceps (cross-body diagonally down)",
+      "parent": "SA cable triceps",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 15,
+      "repsText": "12-15",
+      "weight": {
+        "value": 40.0,
+        "perSide": false,
+        "drops": null,
+        "text": "40"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "back-triceps-3b.2",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "3b.2",
+      "letter": "b",
+      "group": "back-triceps-3-v2",
+      "order": 26,
+      "name": "SA cable triceps (straight down, strict, side of body)",
+      "parent": "SA cable triceps",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 15,
+      "repsText": "12-15",
+      "weight": {
+        "value": 40.0,
+        "perSide": false,
+        "drops": null,
+        "text": "40"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "back-triceps-3b.3",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "3b.3",
+      "letter": "b",
+      "group": "back-triceps-3-v3",
+      "order": 27,
+      "name": "SA cable triceps (cross-body overhead)",
+      "parent": "SA cable triceps",
+      "sets": 3,
+      "repsMin": 10,
+      "repsMax": 12,
+      "repsText": "10-12",
+      "weight": {
+        "value": 40.0,
+        "perSide": false,
+        "drops": null,
+        "text": "40"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": "180 degree angle"
+    },
+    {
+      "id": "back-triceps-4a",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "4a",
+      "letter": "a",
+      "group": "back-triceps-4",
+      "order": 28,
+      "name": "BB shrugs",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 20,
+      "repsMax": 20,
+      "repsText": "20",
+      "weight": {
+        "value": 135.0,
+        "perSide": false,
+        "drops": null,
+        "text": "135"
+      },
+      "muscle": "Shoulders",
+      "movement": "Pull",
+      "tips": "Switch grip alternating"
+    },
+    {
+      "id": "back-triceps-4b",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "4b",
+      "letter": "b",
+      "group": "back-triceps-4",
+      "order": 29,
+      "name": "TRX ab rollout triceps",
+      "parent": null,
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 8,
+      "repsText": "8",
+      "weight": {
+        "value": null,
+        "perSide": false,
+        "drops": null,
+        "text": ""
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": ""
+    },
+    {
+      "id": "back-triceps-5a.1",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "5a.1",
+      "letter": "a",
+      "group": "back-triceps-5a.1",
+      "order": 30,
+      "name": "seated row machine (ultra wide)",
+      "parent": "seated row machine",
+      "sets": 3,
+      "repsMin": 15,
+      "repsMax": 15,
+      "repsText": "15",
+      "weight": {
+        "value": 35.0,
+        "perSide": false,
+        "drops": null,
+        "text": "light (35)"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "seat #5"
+    },
+    {
+      "id": "back-triceps-5a.2",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "5a.2",
+      "letter": "a",
+      "group": "back-triceps-5a.2",
+      "order": 31,
+      "name": "seated row machine (regular)",
+      "parent": "seated row machine",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 12,
+      "repsText": "12",
+      "weight": {
+        "value": 45.0,
+        "perSide": false,
+        "drops": null,
+        "text": "med (45+)"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "seat #4"
+    },
+    {
+      "id": "back-triceps-5a.3",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "5a.3",
+      "letter": "a",
+      "group": "back-triceps-5a.3",
+      "order": 32,
+      "name": "seated row machine (neutral / narrow)",
+      "parent": "seated row machine",
+      "sets": 3,
+      "repsMin": 8,
+      "repsMax": 10,
+      "repsText": "8-10",
+      "weight": {
+        "value": 70.0,
+        "perSide": false,
+        "drops": null,
+        "text": "heavy (70+)"
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "seat #3"
+    },
+    {
+      "id": "back-triceps-5c.1",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "5c.1",
+      "letter": "c",
+      "group": "back-triceps-5c.1",
+      "order": 33,
+      "name": "skull crushers (incline, light)",
+      "parent": "skull crushers",
+      "sets": 3,
+      "repsMin": 15,
+      "repsMax": 15,
+      "repsText": "15",
+      "weight": {
+        "value": 35.0,
+        "perSide": false,
+        "drops": null,
+        "text": "35"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": "Using bar-bell 30\u00b0"
+    },
+    {
+      "id": "back-triceps-5c.2",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "5c.2",
+      "letter": "c",
+      "group": "back-triceps-5c.2",
+      "order": 34,
+      "name": "skull crushers (flat, extended, medium)",
+      "parent": "skull crushers",
+      "sets": 3,
+      "repsMin": 12,
+      "repsMax": 12,
+      "repsText": "12",
+      "weight": {
+        "value": 45.0,
+        "perSide": false,
+        "drops": null,
+        "text": "45"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": "Using bar-bell flat"
+    },
+    {
+      "id": "back-triceps-5c.3",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "5c.3",
+      "letter": "c",
+      "group": "back-triceps-5c.3",
+      "order": 35,
+      "name": "skull crushers (decline, extended, heavy)",
+      "parent": "skull crushers",
+      "sets": 3,
+      "repsMin": 10,
+      "repsMax": 10,
+      "repsText": "10",
+      "weight": {
+        "value": 55.0,
+        "perSide": false,
+        "drops": null,
+        "text": "55"
+      },
+      "muscle": "Triceps",
+      "movement": "Push",
+      "tips": "Using bar-bell decline"
+    },
+    {
+      "id": "back-triceps-6a",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "6a",
+      "letter": "a",
+      "group": "back-triceps-6",
+      "order": 36,
+      "name": "SA DB row",
+      "parent": null,
+      "sets": 3,
+      "repsMin": null,
+      "repsMax": null,
+      "repsText": "",
+      "weight": {
+        "value": null,
+        "perSide": false,
+        "drops": null,
+        "text": ""
+      },
+      "muscle": "Back",
+      "movement": "Pull",
+      "tips": "DND"
+    },
+    {
+      "id": "back-triceps-6b",
+      "day": "back-triceps",
+      "dayLabel": "Back and Triceps",
+      "slot": "6b",
+      "letter": "b",
+      "group": "back-triceps-6",
+      "order": 37,
+      "name": "bentover rear fly",
+      "parent": null,
+      "sets": 3,
+      "repsMin": null,
+      "repsMax": null,
+      "repsText": "",
+      "weight": {
+        "value": null,
+        "perSide": false,
+        "drops": null,
+        "text": ""
+      },
+      "muscle": "Shoulders",
+      "movement": "Pull",
+      "tips": "DND"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "seed-chest-bicep",
+      "date": "2026-08-13",
+      "title": "Chest & Bicep",
+      "startedAt": null,
+      "durationSec": null,
+      "exercises": [
+        {
+          "exerciseId": "chest-bicep-1a",
+          "name": "bb bench press",
+          "perSide": false,
+          "sets": [
+            {
+              "reps": 8,
+              "weight": 115.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 115.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 115.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-1b",
+          "name": "DB bicep curls",
+          "perSide": true,
+          "sets": [
+            {
+              "reps": 8,
+              "weight": 25.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 25.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 25.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-2b",
+          "name": "ez bar bicep curls",
+          "perSide": false,
+          "sets": [
+            {
+              "reps": 8,
+              "weight": 55.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 55.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 55.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-3b",
+          "name": "DB hammer curls",
+          "perSide": true,
+          "sets": [
+            {
+              "reps": 8,
+              "weight": 20.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 20.0,
+              "drops": null
+            },
+            {
+              "reps": 8,
+              "weight": 20.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-4a",
+          "name": "45\u00b0 DB pinch press",
+          "perSide": true,
+          "sets": [
+            {
+              "reps": 10,
+              "weight": 25.0,
+              "drops": null
+            },
+            {
+              "reps": 10,
+              "weight": 25.0,
+              "drops": null
+            },
+            {
+              "reps": 10,
+              "weight": 25.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-5a",
+          "name": "15\u00b0 DB chest press",
+          "perSide": false,
+          "sets": [
+            {
+              "reps": 7,
+              "weight": 45.0,
+              "drops": null
+            },
+            {
+              "reps": 7,
+              "weight": 45.0,
+              "drops": null
+            },
+            {
+              "reps": 7,
+              "weight": 45.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-5b",
+          "name": "15\u00b0 DB chest fly",
+          "perSide": false,
+          "sets": [
+            {
+              "reps": 10,
+              "weight": 15.0,
+              "drops": null
+            },
+            {
+              "reps": 10,
+              "weight": 15.0,
+              "drops": null
+            },
+            {
+              "reps": 10,
+              "weight": 15.0,
+              "drops": null
+            }
+          ],
+          "durationSec": null
+        },
+        {
+          "exerciseId": "chest-bicep-8b",
+          "name": "wide grip cable bicep curls, triple drop set",
+          "perSide": false,
+          "sets": [
+            {
+              "reps": 8,
+              "weight": 110.0,
+              "drops": [
+                110.0,
+                130.0,
+                110.0,
+                90.0
+              ]
+            }
+          ],
+          "durationSec": null
+        }
+      ],
+      "imported": true
+    }
+  ]
+}

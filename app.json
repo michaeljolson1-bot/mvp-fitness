@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "MVP Fitness",
+    "slug": "mvp-fitness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "mvpfitness",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "owner": "olsonmj2017",
+    "extra": {
+      "eas": {
+        "projectId": "55748174-c2d1-4e06-8a65-a01c3749a7df"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/55748174-c2d1-4e06-8a65-a01c3749a7df"
+    }
+  }
+}
